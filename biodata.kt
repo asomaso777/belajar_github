@@ -5,6 +5,6 @@ var kelas = "XI RPL 2"
 var hobi = "main"
 
 println("Nama: $nama") 
-prontln("Kelas: $kelas") 
+println("Kelas: $kelas") 
 println("Hobi: $hobi") 
 }
